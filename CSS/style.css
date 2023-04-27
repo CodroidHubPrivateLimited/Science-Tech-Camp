@@ -773,6 +773,7 @@ footer{
 .sticky-buttons{
     /* position: absolute; */
     bottom: 0;
+    text-align: center;
     position: fixed;
     bottom: -4px;
     border-radius: 7px;
@@ -780,6 +781,10 @@ footer{
     background-color: #ffffff;
     padding: .5rem;
     width: 100%;
+}
+#ppt-button1{
+    width: 100%;
+    font-family: Poppins;
 }
 nav a{
     padding: 2%;

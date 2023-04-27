@@ -782,6 +782,9 @@ footer{
     padding: .5rem;
     width: 100%;
 }
+#follow{
+    padding: .5rem 0 0.5rem 0rem;
+}
 #ppt-button1{
     width: 100%;
     font-family: Poppins;
